@@ -6,9 +6,10 @@ function Hello() {
   return (
     <div>
       <div className="Hello">
-        <img width="200" alt="icon" src={icon} />
+        {/* <img width="200" alt="icon" src={icon} /> */}
       </div>
-      <h1>right</h1>
+      <h1>test</h1>
+      <h1>v1.0.0</h1>
     </div>
   );
 }
